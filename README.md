@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enmanuel Sánchez Abarúa
 - 👀 I’m interested in Web Development
 - 💞️ I’m looking to collaborate on some open source project to practice my knowledges.
-- 📫 How to reach me: my linkedIn is [www.linkedin.com/in/enmanuel-sánchez-abarúa-7609851a5](https://www.linkedin.com/in/enmanuel-sanchez-abarua-7609851a5/) and my instagram is @enmanuel.s.abarua. 
+- 📫 How to reach me: my linkedIn is [Enmanuel Sánchez Abarúa](https://www.linkedin.com/in/enmanuel-sanchez-abarua-7609851a5/) and my instagram is [@enmanuel.s.abarua](https://www.instagram.com/enmanuel.s.abarua/). 
 - In a near future you'll have the link of my portfolio. 😉
 
 <!---
